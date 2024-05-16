@@ -1,0 +1,6 @@
+type,x,y,angle,rotate_angle,color
+e,14.0,9.0,0,0,white
+o,6.0,6.0,0,0,white
+a,3.0,3.0,0,5,red
+a,4.0,4.0,0,5,yellow
+a,5.0,5.0,0,5,purple
