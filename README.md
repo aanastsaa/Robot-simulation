@@ -37,3 +37,8 @@ Application:
     mvn clean compile
     
     mvn javafx:run
+
+Below you can see screenshots of the work of this robot project (in the form of beetles) and the obstacles created.
+
+![](https://github.com/aanastsaa/Robot-simulation/blob/main/2024-06-25_20-08-57.png)
+![](https://github.com/aanastsaa/Robot-simulation/blob/main/2024-06-25_20-10-19.png)
